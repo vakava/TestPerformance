@@ -2,7 +2,7 @@
 
 .SYNOPSIS
 
-Short description
+This is very accurate short description of this wall of code.
 
 
 .DESCRIPTION
